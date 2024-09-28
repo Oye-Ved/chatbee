@@ -8,7 +8,7 @@ Node.js (version 14 or higher)
 npm (version 6 or higher)
 WebSocket library (ws)
 Running the Project
-Clone the repository: git clone https://github.com/your-username/chatbee-kzilla.git
+clone the repo at
 Install dependencies: npm install
 Start the server: node server.js
 Open a new terminal window and run the client: node client.js
