@@ -1,10 +1,39 @@
-# chatbee
-chat bot
-chatbee_kzilla 
-CLI Chat with Websockets Real-time communication is essential in the digital era. 
- Your task is to develop a Command Line Interface (CLI) chat application using Websockets that allows users to have interactive conversations seamlessly. Suggested Tasks You're encouraged to choose any suitable backend technology for building the CLI chat application with Websockets. Popular choices include Node.js, Python, or Go lang. Code cleanliness and maintainability are vital. Follow a structured architecture like MVC, MVVM, etc., and avoid monolithic single-file code. Although WebSocket libraries are commonly used, feel free to select any technology stack that aligns with your expertise for implementing Websockets.
+ChatBee : CLI Chat with Websockets
+Introduction
+ChatBee KZilla is a Command Line Interface (CLI) chat application that utilizes Websockets for real-time communication. This project aims to provide a seamless and interactive conversation experience for users.
 
+Getting Started
+Prerequisites
+Node.js (version 14 or higher)
+npm (version 6 or higher)
+WebSocket library (ws)
+Running the Project
+Clone the repository: git clone https://github.com/your-username/chatbee-kzilla.git
+Install dependencies: npm install
+Start the server: node server.js
+Open a new terminal window and run the client: node client.js
+Configuration
+Edit the config.json file to customize the WebSocket connection settings.
+Features
+Real-time messaging using Websockets
+Interactive CLI interface for users to chat
+Support for multiple users and conversations
+Contributing
+Fork the repository and create a new branch for your feature or fix.
+Submit a pull request with a clear description of your changes.
+Report any issues or bugs using the GitHub issue tracker.
+License
+This project is licensed under the MIT License. See LICENSE for details.
 
-  Bonus Tasks While not mandatory, incorporating test cases into your application will be highly valued and highlight your commitment to code quality. Database integration is also a plus. Providing clear documentation on the chosen tech stack and architectural decisions will enhance the overall quality of your project. Ensure your CLI chat application is well-documented for usage, setup, and any additional functionalities through a README.md file or similar method. 
-  
-  Additional Notes Share your functional code through a public GitHub repository and create a comprehensive README.md file that offers clear instructions. If you deploy the application and provide thorough documentation, your project will receive extra recognition.
+Bonus Features
+Unit testing using Jest
+Database integration using MongoDB
+Clear documentation on the chosen tech stack and architectural decisions
+Deployment
+This application is deployed on a public GitHub repository. Follow the instructions in the Getting Started section to run the application locally.
+
+Additional Resources
+WebSocket library documentation
+Node.js documentation
+MongoDB documentation
+Would you like me to elaborate on any of these sections or add anything else to the README file?
